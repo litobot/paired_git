@@ -1,9 +1,5 @@
-class Litobot
-  def initialize(name, lordship)
-
-  end
-
-  def make_changes
+class Classy
+  def initialize(name, title, property)
     
   end
 end
